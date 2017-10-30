@@ -20,5 +20,6 @@ Pod::Spec.new do |s|
   s.source_files  = "RNComponentA/Classes/**/*.{h,m}"
 
   s.dependency 'React'
+   
 
 end
